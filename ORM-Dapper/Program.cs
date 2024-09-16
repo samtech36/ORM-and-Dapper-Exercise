@@ -45,6 +45,7 @@ class Program
         }
 
         Console.WriteLine("Have a great day!");
+        Console.WriteLine("----------------------");
         
         ListProducts();
         
@@ -62,7 +63,7 @@ class Program
         }
     }
     
-    
+    //Products Section
     public static void ListProducts()
     {
         var prodRepo = new DapperProductRepository(conn);

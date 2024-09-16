@@ -8,25 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e09eef00-1938-446e-972a-a44e85e548f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ORM-Dapper/DapperDepartmentRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ORM-Dapper/DapperProductRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ORM-Dapper/Department.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ORM-Dapper/IDepartmentRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ORM-Dapper/IProductRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ORM-Dapper/Product.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/ORM-Dapper.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/ORM-Dapper.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ORM-Dapper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ORM-Dapper/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ORM-Dapper/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/Debug/net6.0/ORM-Dapper.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/Debug/net6.0/ORM-Dapper.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/Debug/net6.0/ORM-Dapper.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/Debug/net6.0/ORM-Dapper.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/Debug/net6.0/ORM-Dapper.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/Debug/net6.0/ORM-Dapper.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/Debug/net6.0/ORM-Dapper.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/Debug/net6.0/ORM-Dapper.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/Debug/net6.0/ORM-Dapper.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/Debug/net6.0/ORM-Dapper.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/ORM-Dapper.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ORM-Dapper/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ORM-Dapper/obj/project.nuget.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726500962537</updated>
-      <workItem from="1726500964173" duration="1286000" />
+      <workItem from="1726500964173" duration="1637000" />
     </task>
     <servers />
   </component>
