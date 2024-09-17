@@ -68,7 +68,7 @@ class Program
     {
         var prodRepo = new DapperProductRepository(conn);
         
-        Console.WriteLine("Hello user, here are the current departments");
+        Console.WriteLine("Hello user, here are the current products");
         Console.WriteLine("Please press enter  .....");
         Console.ReadLine();
         
